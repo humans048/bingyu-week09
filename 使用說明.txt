@@ -1,0 +1,15 @@
+謝秉育的專案
+
+依據 https://github.com/lieray036/2026.11.10 修改。
+
+已修改：
+1. Android Studio 專案名稱與手機 App 名稱改為「謝秉育的專案」。
+2. 小小兵每 0.1 秒向右下移動 10 像素。
+3. 小小兵完全移出畫布後停止，不會自動回到左上角。
+4. 再按「開始小小兵」即可從左上角重跑。
+5. 小小兵圖片、紫色圓形、藍色方框及紅色線條保留。
+
+開啟方式：
+使用 Android Studio 的 Open，選擇這整個資料夾，不要只選 MainActivity.kt。
+等 Gradle 同步完成，在裝置選單選擇 Android 模擬器或連接的 Android 手機，再按 Run ▶。
+App 原有套件名稱維持 tw.edu.pu.csim.tcyang.a20261110。
